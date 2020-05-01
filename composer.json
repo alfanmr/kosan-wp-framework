@@ -1,0 +1,17 @@
+{
+    "name": "alfanmr/kosan-wp-framework",
+    "description": "Just a Wordpress Framework",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Alfan Munandar Rosyadi",
+            "email": "alfanmunandar@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "autoload": {
+        "psr-4": {"Kosan\\Framework\\Module": "/"}
+    },
+    "require": {}
+}

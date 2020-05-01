@@ -1,0 +1,58 @@
+.postbox.carbon-box .cf-container__tabs{
+    padding: 0px;
+}
+
+.postbox.carbon-box .cf-container__tabs-list{
+    display: block;
+    min-width: 200px;
+    margin: 0px;
+    float: left;
+}
+
+.postbox.carbon-box .cf-container__tabs-item{
+    margin: 0px;
+    border-top: none;
+    border-left: none;
+    border-right: none;
+}
+
+.postbox.carbon-box .cf-container__tabs-item--current{
+    background-color: #00A0D2;
+    color: #fff;
+    border-bottom-color: #e2e4e7;
+}
+
+.postbox.carbon-box .cf-container__fields{
+    border-left: 1px solid #00A0D2;
+    padding-bottom: 20px;
+}
+
+.postbox.carbon-box .cf-container .cf-field{
+    padding: 8px 12px;
+    border: none;
+}
+
+.postbox.carbon-box .cf-container .cf-separator{
+    display: inherit;
+    background-color: #fbfbfc;
+    height: 45px;
+}
+
+.postbox.carbon-box .cf-container .cf-separator h3{
+    margin: 0px;
+    padding: 0px;
+}
+
+.postbox.carbon-box .cf-container .cf-separator .cf-field__head{
+    flex: unset;
+}
+
+.postbox.carbon-box .cf-container .cf-separator .cf-field__help{
+    position: absolute;
+    right: 10px;
+    top: 0px;
+}
+
+.postbox.carbon-box .cf-container .cf-separator .cf-field__help a{
+    text-decoration: none;
+}
