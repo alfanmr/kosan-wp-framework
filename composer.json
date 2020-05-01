@@ -13,5 +13,11 @@
     "autoload": {
         "psr-4": {"Kosan\\Framework\\Module\\": "/src"}
     },
-    "require": {}
+    "require": {
+        "illuminate/database": "^6.8",
+        "htmlburger/carbon-fields": "^3.1",
+        "yahnis-elsts/plugin-update-checker": "^4.8",
+        "eftec/bladeone": "^3.33",
+        "respect/validation": "^1.1"
+    }
 }
